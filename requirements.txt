@@ -1,0 +1,4 @@
+geopandas
+streamlit-folium
+folium
+pandas
