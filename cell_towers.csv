@@ -1,0 +1,6 @@
+tower_id,latitude,longitude,provider
+TOWER_001,9.0315,7.4621,MTN
+TOWER_002,9.0430,7.4850,Airtel
+TOWER_003,9.0610,7.4750,Glo
+TOWER_004,9.0895,7.4910,MTN
+TOWER_005,9.0500,7.4500,9mobile
